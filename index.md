@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Abe's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Where we landing at 
+####gorillas and 
